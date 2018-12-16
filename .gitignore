@@ -1,0 +1,7 @@
+.vs/
+api/glew/doc/
+api/glfw/docs/
+Debug/
+LUNAR v2/Release/
+Release/
+*.db
